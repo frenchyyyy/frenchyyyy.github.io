@@ -7,7 +7,15 @@ h1{
 }
 
 .left, .right {
-  width: 25%;
+  width: 10%;
+}
+
+.left{
+  background-color: red;
+}
+
+.right{
+  background-color: darkblue;
 }
 
 .middle {
