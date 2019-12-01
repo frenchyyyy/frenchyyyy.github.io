@@ -2,17 +2,20 @@ h1{
   color: red;
 }
 
-.column {
-  float: left;
-}
 
 .left, .right {
   width: 10%;
 }
 
 .middle {
-  width: 50%;
+  width: 90%;
 }
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
 
 @media screen and (max-width: 600px) {
   .column {
