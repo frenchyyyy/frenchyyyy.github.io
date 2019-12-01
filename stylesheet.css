@@ -16,6 +16,7 @@ h1{
 
 .column {
   float: left;
+  padding-left: 20px;
 }
 
 
@@ -23,4 +24,9 @@ h1{
   .column {
     width: 100%;
   }
+}
+
+
+* {
+  box-sizing: border-box;
 }
